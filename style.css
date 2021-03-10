@@ -8,10 +8,10 @@ h1 {
 .display-4 {
     color: rgb(143, 240, 255);
 }
-.fa-facebook :hover{
-    color: #d5d5d5;
-}
-.fa-facebook {
-    color: #3b5998;
-}
 
+.bg-secondary {
+    text-align: center 
+}
+img {
+    width: 400px !important;
+}
