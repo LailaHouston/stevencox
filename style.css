@@ -16,5 +16,8 @@ img {
     max-width: 100%;
     height: auto;
 }
-
+.empoweredperspectivepicture {
+    width: 400px !important;
+    height: 100px !important;
+}
 
