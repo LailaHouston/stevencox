@@ -22,9 +22,9 @@ img {
 }
 .fa-facebook-square {
     color: #3b5998;
-    font-size: 20px;
-    padding: 20px 20px;
-    border: 1px solid rgb(255, 255, 255);
-    border-radius: 50%;
-    transition: .5s;
+    padding: 20px;
+    font-size: 4.5em;
+    width: 10px;
+    text-align: center;
+    text-decoration: none;
 }
