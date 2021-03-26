@@ -32,3 +32,6 @@ table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
 }
+h2, p, h4 {
+    text-align: center;
+}
