@@ -35,12 +35,14 @@ table, th, td {
 h2, p, h4 {
     text-align: center;
 }
-section{
-    width: 100%;
-    height: 100vh;
-    color: #fff;
-    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
-    background-size: 400% 400%;
-    position: relative;
-    animation: change 10s ease-in-out infinite;
-}
+table{
+    font-size:18px;
+    background-color:rgb(47, 121, 231);
+  }
+  .first{
+    background-color:rgb(18, 166, 235);
+  }
+  .second{
+    background-color: rgb(154, 248, 255);
+  }
+ 
