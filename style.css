@@ -1,12 +1,12 @@
 h1 {
-    color:aqua;
+    color:rgb(194, 40, 40);
 }
 
 .lead {
     color: white;
 }
 .display-4 {
-    color: rgb(143, 240, 255);
+    color: white;
 }
 
 .bg-secondary {
