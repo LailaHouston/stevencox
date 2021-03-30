@@ -1,5 +1,5 @@
 h1 {
-    color:rgb(194, 40, 40);
+    color:rgb(3, 0, 0);
 }
 
 .lead {
@@ -48,14 +48,18 @@ table{
   .header {
     font-family: Impact;
     align-content: center;
-    color: rgb(68, 226, 160);
+    color: rgb(0, 92, 54);
   }
   .aero {
       font-family: Impact;
       align-content: center;
   }
+body{
+    background-color:#A3EBB1;
+}
 
-
-
+.btn-outline-secondary:hover {
+    background-color: rgb(119, 101, 50);
+}
 
 
