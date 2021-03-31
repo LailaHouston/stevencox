@@ -45,18 +45,13 @@ table{
   .second{
     background-color: #878057;
   }
-  .header {
-    font-family: Helvetica;
-    align-content: center;
-    color:#004906;
-  }
   .welcome{
       font-family: Helvetica;
       font-weight: 200;
       align-content: center;
       color: #b2ac88;
   }
-  .aero {
+  .aero, .header {
       font-family: Helvetica;
       align-content: center;
       color: #b2ac88;
@@ -84,4 +79,7 @@ body{
 .btn-primary:hover {
     background-color: rgb(153, 120, 29);
     border:brown;
+}
+footer :hover{
+    color: gray;
 }
