@@ -37,42 +37,50 @@ h2, p, h4 {
 }
 table{
     font-size:18px;
-    background-color:rgb(104, 198, 235);
+    background-color:white;
   }
   .first{
-    background-color:rgb(18, 166, 235);
+    background-color: #6B6645;
   }
   .second{
-    background-color: rgb(154, 248, 255);
+    background-color: #878057;
   }
   .header {
-    font-family: Impact;
+    font-family: Helvetica;
     align-content: center;
-    color: rgb(0, 92, 54);
+    color:#878057;
   }
   .welcome{
-      font-family: cursive;
+      font-family: Helvetica;
       font-weight: 200;
       align-content: center;
-      color: rgb(0, 92, 54);
+      color: #b2ac88;
   }
   .aero {
-      font-family: cursive;
+      font-family: Helvetica;
       align-content: center;
-      color: rgb(0, 0, 0);
+      color: #b2ac88;
   }
 body{
-    background-color:#A3EBB1;
+    background-color: #2E8B57;
 }
 
 .btn-outline-secondary:hover {
     background-color: rgb(119, 101, 50);
 }
-footer {
+.end {
     background-color:#B2AC88;
     color: #000000;
     padding-top: 2rem;
 }
 .card-img-top {
     height: 75%;
+}
+.text{
+    background-color: gray;
+    font-family: Helvetica;
+    color: rgb(0, 0, 0);
+}
+.jumbotron {
+    background-color: brown!important;
 }
