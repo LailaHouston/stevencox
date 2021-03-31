@@ -9,7 +9,7 @@ h1 {
     color: white;
 }
 
-.bg-secondary {
+.bg-secondary, .bg-dark {
     text-align: center;
 }
 img {
@@ -48,7 +48,7 @@ table{
   .header {
     font-family: Helvetica;
     align-content: center;
-    color:#878057;
+    color:#004906;
   }
   .welcome{
       font-family: Helvetica;
@@ -66,7 +66,7 @@ body{
 }
 
 .btn-outline-secondary:hover {
-    background-color: rgb(119, 101, 50);
+    background-color: rgb(119, 101, 50) !important;
 }
 .end {
     background-color:#B2AC88;
@@ -76,11 +76,12 @@ body{
 .card-img-top {
     height: 75%;
 }
-.text{
-    background-color: gray;
-    font-family: Helvetica;
-    color: rgb(0, 0, 0);
+
+.btn-primary {
+    background-color: #B2AC88;
+    border: brown;
 }
-.jumbotron {
-    background-color: brown!important;
+.btn-primary:hover {
+    background-color: rgb(153, 120, 29);
+    border:brown;
 }
