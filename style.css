@@ -16,10 +16,7 @@ img {
     max-width: 100%;
     height: auto;
 }
-.empoweredperspectivepicture {
-    width: 400px !important;
-    height: 100px !important;
-}
+
 .fa-facebook-square {
     color: #3b5998;
     padding: 20px;
@@ -55,11 +52,11 @@ table{
       font-family: Helvetica;
       align-content: center;
   }
-  .header{
-      color: white
+  h4, .header{
+      color:  #878057;
   }
   .aero{
-    color: #b2ac88;
+    color: white;
   }
 body{
     background-color: #000000;
@@ -80,6 +77,7 @@ body{
 .btn-primary {
     background-color: #B2AC88;
     border: brown;
+    align-content: center;
 }
 .btn-primary:hover {
     background-color: rgb(153, 120, 29);
@@ -92,3 +90,4 @@ h2 {
 .financial {
     color: tan;
 }
+
