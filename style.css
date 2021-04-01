@@ -1,5 +1,5 @@
 h1 {
-    color:rgb(3, 0, 0);
+    color:rgb(255, 255, 255);
 }
 
 .lead {
@@ -54,10 +54,15 @@ table{
   .aero, .header {
       font-family: Helvetica;
       align-content: center;
-      color: #b2ac88;
+  }
+  .header{
+      color: white
+  }
+  .aero{
+    color: #b2ac88;
   }
 body{
-    background-color: #2E8B57;
+    background-color: #000000;
 }
 
 .btn-outline-secondary:hover {
@@ -80,6 +85,10 @@ body{
     background-color: rgb(153, 120, 29);
     border:brown;
 }
-footer :hover{
-    color: gray;
+
+h2 {
+    color: white;
+}
+.financial {
+    color: tan;
 }
