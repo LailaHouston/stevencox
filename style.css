@@ -107,8 +107,11 @@ img{
     font-family: pacifica condensed regular;
     border: 2px solid #333;
     position: relative;
-    color: #111
-    ;
+    color: #111;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: transparent;
 }
 .btn-outline-primary::after{
     width: 50%;
