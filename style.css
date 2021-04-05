@@ -105,12 +105,22 @@ img{
     padding-left: 1rem;
     padding-right: 1rem;
     font-family: pacifica condensed regular;
+    border: 2px solid #333;
+    position: relative;
+    color: #111
+    ;
 }
 .btn-outline-primary::after{
-    content: ;
-    position: ;
     width: 50%;
     height: 64px;
     background: red;
-    left: ;
+    left: -56px;
+    top: -11px;
+    transform: rotate(25deg);
+    opacity: 0.1;
+    transition: 400ms;
+}
+.btn-outline-primary:hover::after{
+    left: 100%;
+    opacity: 1;
 }
