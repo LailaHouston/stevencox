@@ -29,7 +29,7 @@ table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
 }
-h2, p, h4 {
+h2, p, h4, h3 {
     text-align: center;
 }
 table{
@@ -48,15 +48,15 @@ table{
       align-content: center;
       color: #b2ac88;
   }
-  .aero, .header {
-      font-family: Helvetica;
-      align-content: center;
-  }
   h4, .header{
       color:  #878057;
+      font-family: Helvetica;
+      text-align: center;
   }
   .aero{
     color: white;
+    font-family: Helvetica;
+    text-align: center;
   }
 body{
     background-color: #000000;
@@ -106,24 +106,14 @@ img{
     padding-right: 1rem;
     font-family: pacifica condensed regular;
     border: 2px solid #333;
-    position: relative;
+    position: center;
     color: #111;
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
-    background: transparent;
 }
-.btn-outline-primary::after{
-    width: 50%;
-    height: 64px;
-    background: red;
-    left: -56px;
-    top: -11px;
-    transform: rotate(25deg);
-    opacity: 0.1;
-    transition: 400ms;
-}
-.btn-outline-primary:hover::after{
+.btn-outline-primary:hover{
     left: 100%;
     opacity: 1;
+    background-color: dimgrey;
 }
