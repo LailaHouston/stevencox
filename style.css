@@ -106,14 +106,14 @@ img{
     padding-right: 1rem;
     font-family: pacifica condensed regular;
     border: 2px solid #333;
-    position: center;
+    position: relative;
     color: #111;
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
+    box-align: center;
 }
 .btn-outline-primary:hover{
-    left: 100%;
-    opacity: 1;
     background-color: dimgrey;
+    border: black;
 }
