@@ -42,19 +42,14 @@ table{
   .second{
     background-color: #878057;
   }
-  .welcome{
-      font-family: Helvetica;
-      font-weight: 200;
-      align-content: center;
-      color: #b2ac88;
-  }
   h4, .header{
-      color:  #878057;
+      color:  #b2ac88;
       font-family: Helvetica;
       text-align: center;
+      font-weight: 200;
   }
   .freedom {
-      color: #878057;
+      color: #b2ac88;
   }
   .aero{
     color: white;
@@ -62,7 +57,7 @@ table{
     text-align: center;
   }
   .list{
-      font-family: Impact;
+      font-family: verdana;
       text-align: left;
       color: white;
   }
