@@ -58,6 +58,11 @@ table{
     font-family: Helvetica;
     text-align: center;
   }
+  .list{
+      font-family: Impact;
+      text-align: left;
+      color: white;
+  }
 body{
     background-color: #000000;
 }
