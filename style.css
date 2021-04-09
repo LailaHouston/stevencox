@@ -55,7 +55,7 @@ table{
     color: white;
     font-family: verdana;
     text-align: center;
-    font-size: 18px;
+    font-size: 22px;
   }
   .list{
       font-family: verdana;
@@ -122,17 +122,3 @@ img{
     border: black;
 }
 
-@media screen and (max-width: 450px) {
-    iframe {
-      width: 400px;
-      height: 100px;
-    }
-
-  }
-  @media screen and (max-width: 2000px) {
-    iframe {
-      width: 350px;
-      height: 200px;
-    }
-
-  }
