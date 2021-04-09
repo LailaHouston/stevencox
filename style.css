@@ -124,12 +124,15 @@ img{
 
 @media screen and (max-width: 450px) {
     iframe {
-      width: 300px;
+      width: 400px;
+      height: 100px;
     }
+
   }
   @media screen and (max-width: 2000px) {
     iframe {
-      width: 400px;
-      height: 300px;
+      width: 350px;
+      height: 200px;
     }
+
   }
