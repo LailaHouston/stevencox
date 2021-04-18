@@ -80,6 +80,13 @@ h4,
     font-size: 18px;
 }
 
+.quote {
+    color: white;
+    font-family: verdana;
+    text-align: center;
+    font-size: 15px;
+}
+
 .list {
     font-family: verdana;
     text-align: left;
